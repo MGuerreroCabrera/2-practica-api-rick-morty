@@ -1,0 +1,20 @@
+div {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    /* gap: 10px; */
+}
+
+img {
+    cursor: pointer;
+}
+.normal {
+    width: auto;
+    height: auto;
+}
+
+.rotated {
+    width: auto;
+    height: auto;
+    rotate: 180deg;
+}
